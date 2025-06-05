@@ -18,7 +18,7 @@ pip install "git+https://github.com/Kotak-Neo/Kotak-neo-api-v2.git#egg=neo_api_c
 
 If you are updating your package please use below command to install
 ```sh
-pip install --force-reinstall "git+https://github.com/Kotak-Neo/Neo_sdk_v2"
+pip install --force-reinstall "git+https://github.com/Kotak-Neo/Kotak-neo-api-v2"
 ```
 (you may need to run `pip` with root permission: `sudo pip install -e "`)
 
