@@ -13,7 +13,7 @@ Python 3.10+
 If the python package is hosted on a repository, you can install directly using:
 
 ```sh
-pip install "git+https://github.com/Kotak-Neo/Neo_sdk_v2.git#egg=neo_api_client"
+pip install "git+https://github.com/Kotak-Neo/Kotak-neo-api-v2.git#egg=neo_api_client"
 ```
 
 If you are updating your package please use below command to install
