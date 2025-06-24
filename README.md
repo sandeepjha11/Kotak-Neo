@@ -81,7 +81,7 @@ client = NeoAPI(consumer_key="", consumer_secret="", environment='prod', access_
 
 # Step 7 - Submit the totp on the QR code page to complete the Totp registration
 
-# mobile_number: registered mobile number
+# mobile_number: registered mobile number with the country code.
 # ucc: Unique Client Code which you will find in mobile application/website under profile section
 # totp: Time-based One-Time Password recieved on google authenticator application
 # totp_login generates the view token and session id used to generate trade token
