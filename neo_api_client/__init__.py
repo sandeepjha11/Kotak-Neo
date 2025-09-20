@@ -6,7 +6,7 @@ from neo_api_client.exceptions import ApiValueError
 from neo_api_client.exceptions import ApiKeyError
 from neo_api_client.exceptions import ApiAttributeError
 from neo_api_client.exceptions import ApiException
-
+from .base_url import BaseUrl
 
 from neo_api_client.api.login_api import LoginAPI
 from neo_api_client.api.order_api import OrderAPI
